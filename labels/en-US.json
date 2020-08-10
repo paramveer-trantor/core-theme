@@ -131,8 +131,6 @@
   "curbsideCustomerOnTheirWay": "Customer {0} is on their way to pickup order #{1}",
   "curbsideIdText": "Please bring your ID that matches the name on your order (Unless otherwise specified).",
   "curbsideItemCanceldedHeaderBlob": "SORRY! YOUR ITEMS ARE OUT OF STOCK",
-  "curbsideItemCancelledByShopperContentBlob": "Hello,<br/><br/>Thank you for shopping with us at {0}.<br/><br/>The following order# <strong>{1}</strong> has been cancelled by the store.",
-  "curbsideItemCancelledByShopperHeaderBlob": "Your curbside order has been cancelled",
   "curbsideItemCanclledBlob": "Hello, <br/><br/> Thank you for shopping with us at {0}. <br/><br/><strong> Unfortunately, the items you ordered are currently OUT OF STOCK. Therefore, the order was  cancelled.</strong> <br/> <br/> Please check back at a future date for item availability.",
   "curbsideItemCancelledByShopperHeaderBlob": "Your curbside order has been cancelled",
   "curbsideItemCancelledByShopperContentBlob": "Hello,<br/><br/>Thank you for shopping with us at {0}.<br/><br/>The following order# <strong>{1}</strong> has been cancelled by the store.",

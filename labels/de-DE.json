@@ -86,8 +86,6 @@
   "curbsideCustomerOnTheirWay": "Le client {0} est sur le point de retirer la commande n #{1}",
   "curbsideIdText": "Veuillez apporter votre identifiant correspondant au nom de votre commande (sauf indication contraire).",
   "curbsideItemCanceldedHeaderBlob": "DÉSOLÉ! VOS ARTICLES SONT EN RUPTURE DE STOCK",
-  "curbsideItemCancelledByShopperContentBlob": "Bonjour,<br/><br/>Merci de magasiner avec nous à {0}.<br/><br/>L'ordre suivant # <strong>{1}</strong> a été annulé par le magasin.",
-  "curbsideItemCancelledByShopperHeaderBlob": "Votre commande en bordure de rue a été annulée",
   "curbsideItemCanclledBlob": "Bonjour, <br/><br/> Merci de magasiner avec nous à {0}. <br/><br/><strong> Malheureusement, les articles que vous avez commandés sont actuellement EN RUPTURE DE STOCK. Par conséquent, la commande a été annulée.</strong> <br/> <br/> Veuillez vérifier à une date ultérieure pour la disponibilité des articles.",
   "curbsideItemCancelledByShopperHeaderBlob": "Votre commande en bordure de rue a été annulée",
   "curbsideItemCancelledByShopperContentBlob": "Bonjour,<br/><br/>Merci de magasiner avec nous à {0}.<br/><br/>L'ordre suivant # <strong>{1}</strong> a été annulé par le magasin.",
