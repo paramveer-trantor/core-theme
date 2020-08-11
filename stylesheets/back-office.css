@@ -304,7 +304,7 @@ table {
 }
 
 .mz-l-formfieldgroup input[type="text"], .mz-l-formfieldgroup select {
-  width: 280px;
+  width: 245px;
 }
 
 .mz-delevery-button {
@@ -494,5 +494,5 @@ table {
 }
 
 .mz-curbside-header-body h3 {
-  font-weight: 300;
+  font-weight: 150;
 }
