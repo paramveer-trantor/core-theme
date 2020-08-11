@@ -439,14 +439,14 @@ table {
 
 .mz-curbside-header-body {
   position: relative;
-  top: 25%;
+  top: 13%;
   left: 10px;
-  width: 90%;
+  width: 94%;
 }
 
 .mz-curbside-header img {
   float: left;
-  width: 35%;
+  width: 32%;
   height: 100%;
   background: #330065;
 }
@@ -494,5 +494,5 @@ table {
 }
 
 .mz-curbside-header-body h3 {
-  font-weight: 150;
+  font-weight: 100;
 }
