@@ -483,6 +483,16 @@ table {
         }
 }
 
+.location-hours-format td {
+  text-align: right;
+  padding: 12.5px 9px;
+}
+
+
+.location-hours-format {
+  background: #eeeeee;
+}
+
 .mz-curbside-header-body h3 {
   font-weight: 300;
 }
