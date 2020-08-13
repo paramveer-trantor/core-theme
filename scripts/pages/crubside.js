@@ -30,17 +30,17 @@ var CrubsideCustomerView = Backbone.MozuView.extend({
                 shipmentNumber: self.model.get('shipmentNumber'),
                 CurbsideFormData: [
                     {
-                        key: $('#parkingspotlabel').text(),
-                        value: $('[data-mz-parkingspotText]').val()
+                        key: $('#vehiclemodelLabel').text(),
+                        value: $('[data-mz-vehiclemodel]').val()
                     },
                     {
                         key: $('#licenseplatelabel').text(),
                         value: $('[data-mz-licenseplate]').val()
                     },
                     {
-                        key: $('#vehiclemodelLabel').text(),
-                        value: $('[data-mz-vehiclemodel]').val()
-                    },
+                        key: $('#parkingspotlabel').text(),
+                        value: $('[data-mz-parkingspotText]').val()
+                    },                   
                     {
                         key: $('#deliverymethodlabel').text(),
                         value: $("#selectdeliverymethod").val()
