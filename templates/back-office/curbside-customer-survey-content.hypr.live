@@ -16,14 +16,13 @@
         </div>
     </div>  
 {% endif %}
-<div>
+<div class="pageContent">
     {% if model.hasCurbsideSurveyData==false %}        
         <div class="curbside-description">
             <p>{{ labels.curbsideCustomerSurveyBlob1 }}</p>
         </div>
         <div class="mz-l-column">
-            <form method="post" class="mz-curbsidedeliveryform mz-curbsidedelivery-page" name="mz-curbsidedelivery">
-            <input type="hidden" name="isBackofficePreview" value="{{ isBackofficePreview }}"  data-mz-isBackofficePreview />
+            <form method="post" class="mz-curbsideSurveyform mz-curbsidedelivery-page" name="mz-curbsideSurvey">
                 <div class="mz-l-formfieldgroup">
                     <div class="mz-l-formfieldgroup-row">
                         <div class="mz-l-formfieldgroup-cell">
